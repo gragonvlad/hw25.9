@@ -55,7 +55,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `user_login`, `user_password`, `user_hash`, `user_ip`) VALUES
-(1, 'ilya', '49b1b5927b62415c5b3e9c1229c9d576', '172f01f9b98029bdf9f079246cbb0997', 0);
+(1, 'teste', 'fade225f096f9138f98f29887fc1f10d', '553231139ff57dfc4ef149bab5148cc8', 0);
 
 --
 -- Индексы сохранённых таблиц
